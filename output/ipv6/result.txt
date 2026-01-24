@@ -863,6 +863,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
 纬来电影,https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
@@ -896,8 +897,10 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d184197
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
@@ -1010,4 +1013,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 
 🕘️更新时间,#genre#
-2026-01-24 19:21:16,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-01-25 07:18:19,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
