@@ -1132,4 +1132,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 
 🕘️更新时间,#genre#
-2026-02-09 19:57:45,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-10 07:33:47,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
