@@ -70,6 +70,7 @@ CCTV-16,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -217,12 +218,14 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-10.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-16.ctv
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东新闻,https://hls-gateway.vpstv.net/streams/708873.m3u8
 广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-1.m3u8
 广东新闻,https://stream1.freetv.fun/yan-dong-xin-wen-20.m3u8
@@ -953,6 +956,7 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8
 广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-11.php
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
@@ -1050,4 +1054,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🕘️更新时间,#genre#
-2026-02-19 19:37:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-20 07:28:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
