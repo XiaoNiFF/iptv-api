@@ -144,6 +144,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 广东卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
@@ -825,6 +826,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -1027,4 +1029,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 
 🕘️更新时间,#genre#
-2026-03-21 19:18:40,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-22 07:12:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
