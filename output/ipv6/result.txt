@@ -102,6 +102,7 @@ CETV-4,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/inde
 第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
 第一剧场,http://tl.061833.xyz/tl/null-6
 第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
+第一剧场,http://api.mytv666.top/api/qwt.php?t=影视频道&id=中国电影频道
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
@@ -125,6 +126,7 @@ CETV-4,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/inde
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
@@ -241,21 +243,27 @@ CETV-4,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cetv4/51/20240709/inde
 
 ☘️浙江频道,#genre#
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-4.ctv
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江经济生活,http://ls.qingting.fm/live/1099.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 浙江少儿,https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv
 杭州明珠,https://stream1.freetv.fun/hang-zhou-ming-zhu-2.ctv
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-1.ctv
 杭州影视,https://stream1.freetv.fun/hang-zhou-ying-shi-2.ctv
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江国际,https://stream1.freetv.fun/zhe-jiang-guo-ji-10.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 湖州公共,https://stream1.freetv.fun/hu-zhou-gong-gong-9.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-10.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
 萧山新闻综合,https://stream1.freetv.fun/xiao-shan-xin-wen-zong-he-6.m3u8
@@ -703,6 +711,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule
+纬来育乐,http://api.mytv666.top/api/hk.php?id=3165616132653636313766396265326639656663626530326530386464616563267469643d77696e74763132332669643d3831
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立台湾,https://stream1.freetv.fun/san-li-tai-wan-1.ctv
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
@@ -715,12 +724,15 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
+Now剧集,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now劇集台
+Now华剧,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,https://stream1.freetv.fun/jing-tian-zi-xun-2.ctv
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6LOH6KiK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 靖天资讯,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
+靖天资讯,http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631
 
 🎬电影频道,#genre#
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
@@ -734,12 +746,14 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 纬来电影,https://stream1.freetv.fun/wei-lai-dian-ying-1.m3u8
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+纬来电影,http://api.mytv666.top/api/qwt.php?t=影视频道&id=纬来电影
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
+靖天映画,http://api.mytv666.top/api/hk.php?id=3366353563616434393236663337313533636664313136376136663331626566267469643d74762669643d313636
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
@@ -747,6 +761,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 靖天戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
+靖天戏剧,http://api.mytv666.top/api/hk.php?id=6439376364633336386561313339623337393864633730336461636261613535267469643d74762669643d313334
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-15.ctv
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
@@ -754,15 +769,18 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 天映经典,http://o11.163189.xyz/stream/live/ccm/
 天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2
 天映经典,http://smt.1678520.xyz/smt3.2.3.php?id=Celestial2
+天映经典,http://api.mytv666.top/api/qwt.php?t=影视频道&id=天映经典
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,http://api.mytv666.top/api/qwt.php?t=香港频道&id=龙祥电影
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
+东森洋片,http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森洋片
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
@@ -886,4 +904,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 
 🕘️更新时间,#genre#
-2026-06-26 21:29:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-06-27 08:18:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
