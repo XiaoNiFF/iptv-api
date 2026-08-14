@@ -863,4 +863,4 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 
 🕘️更新时间,#genre#
-2026-08-14 20:11:33,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-15 07:29:18,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
